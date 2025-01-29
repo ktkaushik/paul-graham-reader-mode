@@ -7,9 +7,14 @@
       {
         "matches": ["*://paulgraham.com/*"],
         "js": ["content.js"],
-        "run_at": "document_idle"
+        "run_at": "document_start"
       }
     ],
-    "author": "Kaushik Thirthappa"
+    "author": "Kaushik Thirthappa",
+    "icons": {
+        "16": "pg-icon-16.png",
+        "48": "pg-icon-48.png",
+        "128": "pg-icon-128.png"
+    }
   }
   
