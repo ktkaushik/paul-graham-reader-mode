@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Paul Graham Reader Mode",
+    "version": "1.0",
+    "description": "Centers Paul Graham's website for better readability.",
+    "content_scripts": [
+      {
+        "matches": ["*://paulgraham.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ],
+    "author": "Kaushik Thirthappa"
+  }
+  
