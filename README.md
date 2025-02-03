@@ -2,6 +2,7 @@
 
 # Paul Graham Reader Mode
 Paul Graham Reader Mode is a simple Chrome extension that improves readability by centering the content on **paulgraham.com** only.
+- [Chrome extension](https://chromewebstore.google.com/detail/paul-graham-reader-mode/ihliaankcompkmhngmaddkpbmnajbpio)
 
 ## How it looks?
 <img src="/poster.png" alt="Poster">
